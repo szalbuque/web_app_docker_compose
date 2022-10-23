@@ -7,16 +7,6 @@ Numa máquina virtual Ubuntu, criada no Virtual Box:
 - Criei a pasta: /compose/desafio2/website
 - Na pasta /compose/desafio, criei o arquivo: docker-compose.yml com o conteúdo de exemplo do github do professor.
 
-    version: '3.9'
-    services:
-      apache:
-        image: httpd:latest
-        container_name: my-apache-app
-        ports:
-        - '80:80'
-        volumes:
-        - ./website:/usr/local/apache2/htdocs
-
 - Na pasta /compose/desafio/website, fiz o clone do meu repositório apeperia (do curso da alura): [https://github.com/szalbuque/apeperia](https://github.com/szalbuque/apeperia)
 
 
