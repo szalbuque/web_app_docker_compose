@@ -17,10 +17,10 @@ Deu erro porque já tinha um container com o mesmo nome.
 Usei o comando 
 > docker container prune
 
-Parei o apache com  systemctl stop apache2
-Rodei novamente o docker-compose up, sem erro.
-Funcionou.
-
-Criei um repositório no meu github: https://github.com/szalbuque/web_app_docker_compose
-
-Fiz o push.# web_app_docker_compose
+Parei o apache com  systemctl stop apache2 <br>
+Rodei novamente o docker-compose up, sem erro.<br>
+Funcionou.<br>
+<br>
+Criei um repositório no meu github: https://github.com/szalbuque/web_app_docker_compose <br>
+<br>
+Fiz o push.
